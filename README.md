@@ -4,4 +4,4 @@
 - React + Typescript
 - Vite setup
 
-[DEMO LINKS](https://cheery-cendol-b5267f.netlify.app/)
+[DEMO LINK](https://cheery-cendol-b5267f.netlify.app/)
